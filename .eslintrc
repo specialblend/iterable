@@ -1,0 +1,6 @@
+{
+  "extends": "@specialblend/eslint-config",
+  "rules": {
+    "func-names": "off"
+  }
+}
